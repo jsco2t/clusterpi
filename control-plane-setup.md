@@ -67,8 +67,8 @@ When the `kubeadm` command completes it will give you two important pieces of in
 
     ```bash
     kubeadm join 192.168.1.86:6443 \
-    --token 12te2e.u58fxyqhtqwk8mo3 \
-    --discovery-token-ca-cert-hash sha256:febe6724af16d688345aa99d890ec8d1ee47a75e0c7672c6bd0948f8b8fbac19
+    --token 13te2e.zz8fxyqhtqwk8mo3 \
+    --discovery-token-ca-cert-hash sha256:febe6524aa16c68e3f5aa19d8a0ec8d1ee37a74e0c6672c6bd0948f8b8fbac19
     ```
 
     Save this information as you will need it when you setting up the `worker nodes`.
