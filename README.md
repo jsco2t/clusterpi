@@ -1,5 +1,7 @@
 # clusterpi
 
+![clusterpi](./media/cluster.jpg "clusterpi v1")
+
 This document is a point in time reference for setting up a Kubernetes Cluster using Raspberry Pi's.
 
 A few high level notes:
